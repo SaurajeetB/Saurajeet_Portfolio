@@ -21,7 +21,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 
 ![](/images/img4.png)
 
-# [Project 3: Student Performance Dasboard using Excel: Project Overview](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/README.md)
+# [Project 3: Student Performance Dasboard using Excel: Project Overview](https://github.com/SaurajeetB/Student_Performance_Project)
 * Cleaned and analyzed a dataset of students' scores in various subjects, creating new columns for better analysis.
 * Designed an Excel dashboard displaying various insights from the dataset.
 * Provides an overview of the dataset, showcasing average scores by gender and test preparation by lunch, and grades by ethnicity and parental education level.
