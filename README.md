@@ -1,5 +1,5 @@
 # Saurajeet_Portfolio
-Welcome to my Data Analytics portfolio! Here, you will find a collection of my projects showcasing my skills in data cleaning, analysis and visualization. Through these projects, I aim to demonstrate my ability to turn raw data into valuable insights and actionable recommendations.
+Welcome to my world of data analytics where I turn complex information into a clear and concise story. This portfolio showcases my expertise in data cleaning, analysis, and visualization, highlighting my ability to extract insights from raw data. As you browse through my projects, you'll see how I use a combination of statistical analysis and data visualization to bring data to life. Get ready to be inspired by my passion for turning data into valuable insights that drive real-world impact.
 
 # [Project 1: Covid Global Tracker: Project Overview](https://github.com/SaurajeetB/Covid_portfolio_project)
 * Conducted exploratory data analysis on Covid-19 pandemic using data from various sources
