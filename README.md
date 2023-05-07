@@ -16,7 +16,8 @@ Welcome to my data analytics portfolio repository! Here, you will find a collect
 * Conducted data exploration through insights and visualization techniques
 * Gained insights into product category, correlation between features, and product ratings
 * Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [to view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
-* Created an interactive Tableau dashboard called "Amazon Product and Sales Analysis" for exploring Products and Sales Insights. To view[click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/AmazonProductandSalesAnalysis/Story1) 
+* Created an interactive Tableau dashboard called "Amazon Product and Sales Analysis" for exploring Products and Sales Insights. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/AmazonProductandSalesAnalysis/Story1) 
+![](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/img4.png)
 
 # [Project 3: Student Performance Dasboard using Excel: Project Overview](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/README.md)
 * Cleaned and analyzed a dataset of students' scores in various subjects, creating new columns for better analysis.
