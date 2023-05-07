@@ -6,7 +6,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 * Cleaned and prepared data in MySQL Server and used it for querying
 * Explored relationships between Covid-19 cases, deaths, and population through various queries
 * Looked at death rates by continent and global numbers like total cases and deaths
-* Compared total population vs. vaccination and created a view to store data for visualization
+* Compared total population vs. vaccination and created a view to store data for visualization. [To view code](https://github.com/SaurajeetB/Covid_portfolio_project/blob/main/Covid19-EDA.sql)
 * Created an interactive Tableau dashboard called "COVID19 GLOBAL TRACKER" for exploring pandemic's impact across the globe. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
 
 ![](/images/img2.png)
