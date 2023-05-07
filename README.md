@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio repository! Here, you will find a collect
 * Explored relationships between Covid-19 cases, deaths, and population through various queries
 * Looked at death rates by continent and global numbers like total cases and deaths
 * Compared total population vs. vaccination and created a view to store data for visualization
-* Created an interactive Tableau dashboard called "COVID19 GLOBAL TRACKER" for exploring pandemic's impact across the globe [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
+* Created an interactive Tableau dashboard called "COVID19 GLOBAL TRACKER" for exploring pandemic's impact across the globe. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
 
 # [Data Analysis of Amazon Sales Dataset using Python](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project)
 * Conducted data analysis on the Amazon Sales dataset with Python
@@ -15,3 +15,11 @@ Welcome to my data analytics portfolio repository! Here, you will find a collect
 * Conducted data exploration through insights and visualization techniques
 * Gained insights into product category, correlation between features, and product ratings
 * Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [to view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
+
+# [Student Performance Dasboard Project using Excel](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/README.md)
+* Cleaned and analyzed a dataset of students' scores in various subjects, creating new columns for better analysis.
+* Designed an Excel dashboard displaying various insights from the dataset.
+* Provides an overview of the dataset, showcasing average scores by gender and test preparation by lunch, and grades by ethnicity and parental education level.
+* Includes key performance indicators (KPIs) for total, male, and female students.
+* Incorporated filters for gender, ethnicity, and grade to make the dashboard more user-friendly.
+* Demonstrates skills in data cleaning, analysis, and dashboard creation.
