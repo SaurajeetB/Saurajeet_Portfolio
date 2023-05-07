@@ -8,3 +8,10 @@ Welcome to my data analytics portfolio repository! Here, you will find a collect
 * Looked at death rates by continent and global numbers like total cases and deaths
 * Compared total population vs. vaccination and created a view to store data for visualization
 * Created an interactive Tableau dashboard called "COVID19 GLOBAL TRACKER" for exploring pandemic's impact across the globe [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
+
+# [Data Analysis of Amazon Sales Dataset using Python](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project)
+* Conducted data analysis on the Amazon Sales dataset with Python
+* Utilized data cleaning techniques to organize and prepare the raw data for analysis
+* Conducted data exploration through insights and visualization techniques
+* Gained insights into product category, correlation between features, and product ratings
+* Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [to view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
