@@ -1,7 +1,7 @@
 # Saurajeet_Portfolio
 Welcome to my world of data analytics where I turn complex information into a clear and concise story. This portfolio showcases my expertise in data cleaning, analysis, and visualization, highlighting my ability to extract insights from raw data. As you browse through my projects, you'll see how I use a combination of statistical analysis and data visualization to bring data to life. Get ready to be inspired by my passion for turning data into valuable insights that drive real-world impact.
 
-# [Project 1: Covid Global Tracker (using MySql): Project Overview](https://github.com/SaurajeetB/Covid_portfolio_project)
+# [Project 1: Covid Global Tracker (using Sql): Project Overview](https://github.com/SaurajeetB/Covid_portfolio_project)
 * Conducted exploratory data analysis on Covid-19 pandemic using data from various sources
 * Cleaned and prepared data in MySQL Server and used it for querying
 * Explored relationships between Covid-19 cases, deaths, and population through various queries
