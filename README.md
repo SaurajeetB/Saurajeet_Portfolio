@@ -16,7 +16,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 * Utilized data cleaning techniques to organize and prepare the raw data for analysis
 * Conducted data exploration through insights and visualization techniques
 * Gained insights into product category, correlation between features, and product ratings
-* Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [to view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
+* Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [To view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
 * Created an interactive Tableau dashboard called "Amazon Product and Sales Analysis" for exploring Products and Sales Insights. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/AmazonProductandSalesAnalysis/Story1) 
 
 ![](/images/img6.png)
@@ -27,6 +27,6 @@ Welcome to my world of data analytics where I turn complex information into a cl
 * Provides an overview of the dataset, showcasing average scores by gender and test preparation by lunch, and grades by ethnicity and parental education level.
 * Includes key performance indicators (KPIs) for total, male, and female students.
 * Incorporated filters for gender, ethnicity, and grade to make the dashboard more user-friendly.
-* Demonstrates skills in data cleaning, analysis, and dashboard creation.
+* Demonstrates skills in data cleaning, analysis, and dashboard creation. To download dashborad [click here](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/Student's%20Performance%20Dashboard%20(with%20clean%20data).xlsx)
 
 ![](/images/img5.png)
