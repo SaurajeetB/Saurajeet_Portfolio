@@ -9,7 +9,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 * Compared total population vs. vaccination and created a view to store data for visualization
 * Created an interactive Tableau dashboard called "COVID19 GLOBAL TRACKER" for exploring pandemic's impact across the globe. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/Covid19GlobalTracker_16834691811910/Dashboard1)
 
-![](/img2.png)
+![](/main/img2.png)
 
 # [Project 2: Data Analysis of Amazon Sales Dataset using Python: Project Overview](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project)
 * Conducted data analysis on the Amazon Sales dataset with Python
