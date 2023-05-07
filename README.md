@@ -24,4 +24,5 @@ Welcome to my data analytics portfolio repository! Here, you will find a collect
 * Includes key performance indicators (KPIs) for total, male, and female students.
 * Incorporated filters for gender, ethnicity, and grade to make the dashboard more user-friendly.
 * Demonstrates skills in data cleaning, analysis, and dashboard creation.
+
 ![](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/img.png)
