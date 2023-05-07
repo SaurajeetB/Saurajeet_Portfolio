@@ -19,7 +19,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 * Demonstrated expertise in data cleaning, exploratory data analysis, and data visualization through the project. [to view code](https://github.com/SaurajeetB/Amazon_Sales_Portfolio_Project/blob/main/Amazon%20Sales%20Data.ipynb)
 * Created an interactive Tableau dashboard called "Amazon Product and Sales Analysis" for exploring Products and Sales Insights. To view [click here](https://public.tableau.com/app/profile/saurajeet.banerjee/viz/AmazonProductandSalesAnalysis/Story1) 
 
-![](/images/img4.png)
+![](/images/img6.png)
 
 # [Project 3: Student Performance Dasboard (using Excel): Project Overview](https://github.com/SaurajeetB/Student_Performance_Project)
 * Cleaned and analyzed a dataset of students' scores in various subjects, creating new columns for better analysis.
