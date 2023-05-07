@@ -3,7 +3,7 @@ Welcome to my world of data analytics where I turn complex information into a cl
 
 # [Project 1: Covid Global Tracker: Project Overview](https://github.com/SaurajeetB/Covid_portfolio_project)
 * Conducted exploratory data analysis on Covid-19 pandemic using data from various sources
-* Cleaned and prepared data in MySQL Server and used it for querying
+* Cleaned and prepared data in ## MySQL Server and used it for querying
 * Explored relationships between Covid-19 cases, deaths, and population through various queries
 * Looked at death rates by continent and global numbers like total cases and deaths
 * Compared total population vs. vaccination and created a view to store data for visualization
